@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-h1 align="center">Hi 👋, I'm Kushal Gupta</h1>
+Hi 👋, I'm Kushal Gupta
 
 
 - 🔭 I’m in my 1st year in B.tech cse course in UPES, Dehradun.
