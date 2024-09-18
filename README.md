@@ -1,7 +1,7 @@
 ### Hi  👋 I'm Kushal Gupta
 
 
-- 🔭 I’m in my 1st year in B.tech cse course in UPES, Dehradun.
+- 🔭 I’m in my 2nd year in B.tech cse course in UPES, Dehradun.
 - 🌱 I’m presently learning  C programming 
 - 💬My hobbies are play cricket, volleyball and listen song
 
