@@ -1,8 +1,9 @@
 ### Hi  👋 I'm Kushal Gupta
 
 
-- 🔭 I’m in my 2nd year in B.tech cse course in UPES, Dehradun.
-- 🌱 I’m presently learning  C programming 
+- 🔭 I’m in my 2nd year in B.tech CSE(AIML) course in UPES, Dehradun.
+- 🌱 I’m interested in Machine Learning
+- Skills:- C Programming, DSA, Python Programming, Java Programming
 - 💬My hobbies are play cricket, volleyball and listen song
 
 - ⚡ Fun fact about me :   *Fun Fact*
