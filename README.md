@@ -7,7 +7,7 @@
 - 💬My hobbies are play cricket, volleyball and listen song
 
 - ⚡ Fun fact about me :   *Fun Fact*
-- 📫 How to reach me: contact - 6350154238 and gmail- kushalgupta20004@gmail.com
+- 📫 How to reach me: contact : +91 6350154238 and gmail- kushalgupta20004@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like cricket 
 -->
